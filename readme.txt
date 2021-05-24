@@ -1,2 +1,2 @@
 git is a free software
- mkdir learngit
+distribution mkdir learngit
