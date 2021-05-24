@@ -1,2 +1,2 @@
 git is a free software
-distribution mkdir learngit
+distribution mkdir learngit append a file
